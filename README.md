@@ -1,6 +1,6 @@
 <h1 align="center">Olá! <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px"> Me chamo Thiago</h1>
 <h2 align="center">Bem vindo ao meu perfil Github <img src="https://emojipedia-us.s3.amazonaws.com/source/noto-emoji-animations/344/rocket_1f680.gif" height="30px"></h2>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=Thiago-santos-sousa&color=red" alt="Profile views" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=Thiago-santos-S&color=red" alt="Profile views" /> </p>
 
 <br>
 
